@@ -1,0 +1,13 @@
+
+//test store data json
+{
+"name":"koi",
+"description":"ikan",
+"price":20000,
+"stok":99
+}
+
+//update
+{
+	"name": "awesome"
+}

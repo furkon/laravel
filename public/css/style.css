@@ -1,0 +1,35 @@
+.domain {
+    width:100%;
+  }
+.search-data{
+	 background-color: #fff;
+    border-bottom-left-radius: 4px;
+    border-right: 1px solid #bdc3c7;
+    border-top-left-radius: 4px;
+    float: left;
+    height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 478px;
+	
+}
+.filter-data{
+	 background-color: #fff;
+    border-bottom-left-radius: 4px;
+    border-right: 1px solid #bdc3c7;
+    border-top-left-radius: 4px;
+    float: left;
+    height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 200px;
+	
+}
+.row01{
+	background-color: #D46A6A;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+.title-search {
+    text-align: center;
+}
